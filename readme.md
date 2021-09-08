@@ -3,6 +3,7 @@
 ## Speech data
 
 - Preprocessed senator speeches from 1995 to 2019 with metadata are contained in [senator_speeches.pickle](senator_speeches.pickle) in the root directory.
+- [Click here](https://github.com/VictorLandim/brazilian-senators-speeches/raw/main/senator_speeches.pickle) to download.
 
 - Example item:
 
