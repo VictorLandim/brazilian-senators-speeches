@@ -4,6 +4,36 @@
 
 - Preprocessed senator speeches from 1995 to 2019 with metadata are contained in [senator_speeches.pickle](senator_speeches.pickle) in the root directory.
 
+- Example item:
+
+```
+{
+    "id": "174377",
+    "text": "O SR. JOSAPHAT MARINHO (PFL-BA. Para uma comunicação inadiável.) - Sr. Presidente, estando na Bahia no fim da última semana, recebi insistentes apelos, uns pessoalmente, outros por telefone, de titulares de poupança no Banco Econômico. As pessoas estavam todas, em verdade, em desespero com as notícias de que se aproxima a realização de negociação pela qual se operará a transferência do controle acionário do Banco.  Quando se instalou a intervenção, notoriamente, o Banco Central ...",
+    "date": "1995-09-26",
+    "keywords": "COMENTARIO, RECEBIMENTO, SOLICITAÇÃO, TITULAR, POUPANÇA, BANCO PARTICULAR, ESTADO DA BAHIA (BA), APREENSÃO, NOTICIARIO, DIVULGAÇÃO, TRANSFERENCIA, CONTROLE ACIONARIO.\n      DEFESA, NECESSIDADE, URGENCIA, PROVIDENCIA, GARANTIA, POUPANÇA, PESSOAS, INFERIORIDADE, PODER ECONOMICO, CONFIANÇA, GOVERNO, SISTEMA BANCARIO NACIONAL.",
+    "party": "PFL",
+    "senator": "Josaphat Ramos Marinho",
+    "senator_id": "39",
+    "state": "BA",
+    "speech_type": "DIS",
+    "session_type": None,
+    "text_preproc": [
+        "pflba",
+        "comunicacao",
+        "inadiavel",
+        "estados",
+        "bahia",
+        "ultimos",
+        "semana",
+        "recebeu",
+        "insistir",
+        ...
+    ],
+}
+
+```
+
 ## Steps to execute
 
 0. Install deps
