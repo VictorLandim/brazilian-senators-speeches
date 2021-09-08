@@ -1,11 +1,11 @@
 # Brazilian Senator Speeches
 
-## Speech data
+## Speech dataset
 
-- Preprocessed senator speeches from 1995 to 2019 with metadata are contained in [senator_speeches.pickle](senator_speeches.pickle) in the root directory.
+- Preprocessed senator speeches from 1995 to 2019 with metadata are contained in [senator_speeches.pickle](senator_speeches.pickle) in the root directory. There are 79.354 unique speeches in the dataset.
 - [Click here](https://github.com/VictorLandim/brazilian-senators-speeches/raw/main/senator_speeches.pickle) to download.
 
-- Example item:
+- Example speech element:
 
 ```
 {
