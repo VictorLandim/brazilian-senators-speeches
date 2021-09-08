@@ -1,0 +1,456 @@
+topic	words
+
+0	mundo unidos paises estados internacional americano nacoes europa humanos desenvolvimento
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/375094
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/375320
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/382465
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/387077
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/342439
+
+1	minimo salario riograndedosul sindical gaucho greve aumento reajuste sindicato recebeu
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/331640
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/342671
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/373361
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/311222
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/331789
+
+2	obras rondonia matogrosso estradas transporte rodovias infraestrutura ferrovia trecho construcao
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/393857
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/409682
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/415978
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/398182
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/402093
+
+3	industria produtos mercado setor economia comercio producao comercial exportador desenvolvimento
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/381630
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389792
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/213411
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/341519
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/343631
+
+4	ambiente ambiental floresta amazonia natureza desenvolvimento preservacao areas sustentavel desmatamento
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/347064
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/381672
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/237142
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/345141
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/362888
+
+5	mundo turismo evento jogo copa futebol esporte visita festa cidade
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/378154
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/396671
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/247135
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/360160
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/371183
+
+6	empresas petrobras petroleo vale privada privatizacao companheiros investimentos estatal venda
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/200339
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/310278
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/414790
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/180841
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/375743
+
+7	recursos orcamento milhoes bilhoes investimentos gastos uniao emenda destino orcamentaria
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/341551
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/349949
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/206230
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/368358
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/361760
+
+8	policia armas militar seguranca forca exercito civil riodejaneiro defesa marinha
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/344489
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/343801
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/375689
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/367618
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/376836
+
+9	programa pobres renda social familia bolsa fome milhoes basica minimo
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/402277
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/253661
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/417691
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/393059
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/417705
+
+10	vida familia amigo deus filhos falo vivendo luta querido morreu
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389553
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/380667
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/415703
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/453481
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/413999
+
+11	indice crescimento dados pesquisa populacao resultado aumento ultimos periodo milhoes
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/372063
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/375059
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/342993
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/358885
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/410151
+
+12	servicos acesso consumo cidadao internet informacao telefone dados informacoes comunicacao
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/431010
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/388725
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/399079
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/388412
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/409270
+
+13	precisamos ideia mudar comeca problema maneira melhor pensamento passado falo
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/367350
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/382772
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/415202
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/393544
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/439500
+
+14	educacao escola ensino professor jovens alunos estudo qualidade criancas fundamental
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/363790
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/370609
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/355265
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/378704
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/394539
+
+15	requerimento pedido encaminhar esclarecer recebeu ordem informacoes assinado respeito solicito
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/403162
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/176501
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/197315
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/333851
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/361228
+
+16	municipios prefeito estados municipal estadual vereadores uniao cidade recursos populacao
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/330089
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/382377
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/352541
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/357600
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/362020
+
+17	respeito atitude etica opiniao defender partido interesse aceitar responsabilidade erro
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/426420
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/426432
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/426423
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/425920
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/414322
+
+18	tribunal justica supremo processo juiz direito decisao julgamento judiciario advogado
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/382275
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/342670
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/202926
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/442429
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/452669
+
+19	mulheres criancas violencia direito homem adolescentes sexual sociedade filhos familia
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/342251
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/408409
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/390976
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/366905
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/388052
+
+20	documento interno termos registro regimento artigo integra inserido passado inciso
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/375988
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/357146
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/390254
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/363240
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/363580
+
+21	homenagem luta registro especial representantes parabens reconhecimento palmas agradecer cumprimento
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/450708
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/374025
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/395728
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/383000
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/395731
+
+22	desenvolvimento regiao regioes regional nordeste economia estados investimentos centrooeste sudeste
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/392490
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/348985
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/203748
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/205892
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/340499
+
+23	roraima indigenas indios terras reserva comunidade povos territorio funai ongs
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/195864
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/377695
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/356031
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/410132
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/344332
+
+24	realidade atual necessidade constitui torno natureza verdadeira pratica sociedade propria
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/220592
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/207447
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/205746
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/343352
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/226791
+
+25	jornal imprensa jornalista comunicacao noticia globo publicada reportagem televisao revista
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/386979
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/381769
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/350173
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/451317
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/319749
+
+26	paises america argentina mercosul relacoes venezuela exterior embaixador latina acordo
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/363379
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/328667
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/178908
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/334318
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/312295
+
+27	partido candidato eleitoral campanha eleicao votar eleicoes eleitores reforma eleito
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/379435
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/335854
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/316936
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/242620
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/368782
+
+28	parlamentar campainha resistencia tema democracia socialismo impeachment golpe falo processo
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/442796
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/447276
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/431450
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/448629
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/428230
+
+29	democracia luta historia democratico liberdade movimento direito militar partido regime
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/223406
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/374263
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/325019
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/370751
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/340001
+
+30	amazonia regiao amazonas amapa manaus tocantins zona pesca estados desenvolvimento
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/181220
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/349788
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/417707
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/385647
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/442126
+
+31	acontecendo republica verdade congresso lider sentido passado entendimento querido falo
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/380611
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/391702
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/180780
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/355943
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/377879
+
+32	universidade pesquisa tecnologia ciencia curso estudo conhecimento instituto desenvolvimento professor
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/430501
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/311768
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/340775
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/243684
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/386916
+
+33	corrupcao denuncia investigar ministerio fatos investigacao inquerito envolvidos policia apurar
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/359732
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/360113
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/417220
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/391242
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/394521
+
+34	doenca saude drogas casos combate tratamento cancer causa ministerio problema
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/323174
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/347406
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/312144
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/391209
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/388398
+
+35	problema situacao grave solucao sofrimento crise perda vivendo resolver encontro
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/381442
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/432243
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/203628
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/373074
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/387085
+
+36	congresso legislativo executivo parlamentar republica deputados medidas constituicao parlamento assembleia
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/332572
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/373666
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/345877
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/373789
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/363795
+
+37	produtos agricultura producao rural agricola agricultores produzir alimentos pequenos milhoes
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/383362
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/313822
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/311301
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/338433
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/405024
+
+38	homem vida honra amigo companheiros deixou conhecimento lider respeito sentido
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/219476
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/352635
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/224597
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/352639
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/185990
+
+39	emprego empresas pequenos economia desemprego gerar empresarios setor milhoes empreendimentos
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/386631
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/398393
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/427223
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/386804
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/447860
+
+40	cidade capital distritofederal goias populacao urbana riodejaneiro saopaulo construir construcao
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/342255
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/388873
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/381943
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/341318
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/383881
+
+41	transporte aeroporto acidentes transito aereo passado veiculos motorista aviao empresas
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/182892
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/363650
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/190002
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/369353
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/346410
+
+42	piaui homem deus melhor verdade mentira prefeito historia teresina ganhar
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/384575
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/369349
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/376061
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/384127
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/374085
+
+43	dilma presidenta acre ministros ministerio rousseff branco ajudar melhor sentido
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/398372
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/404063
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/398550
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/391862
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/397446
+
+44	assunto problema prazo oportunidade permite ouco devemos preocupacao estados conhecimento
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/223148
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/414358
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/177690
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/352683
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/177695
+
+45	vida humanos igreja deus homem fraternidade mundo sociedade catolica espirito
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/324919
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/365569
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389813
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/453490
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/324918
+
+46	energia eletrica usinas setor investimentos consumo geracao energetica gerar hidreletrica
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389540
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/400796
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389219
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/401923
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/317673
+
+47	dinheiro pagar compra tirar milhoes gastos mandou venda ganhar verdade
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/390094
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/390497
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/386211
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/418761
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389265
+
+48	reforma parana agraria santacatarina rural assentamentos propriedade movimento campainha terras
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/200351
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/204475
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/242067
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/335131
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/199242
+
+49	lula oposicao republica partido lider palacio planalto passado ministros palocci
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/347209
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/362901
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/356965
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/348905
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/344227
+
+50	constituicao estabelecer constitucional direito legislacao normas legal juridica apresentei texto
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/339691
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/403027
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/208771
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/206857
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/410526
+
+51	agua bahia nordeste paraiba pernambuco ceara seca alagoas sergipe regiao
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/420767
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/419466
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/432756
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/352345
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/419477
+
+52	sociedade avanco fundamental precisamos processo reforma melhor mudanca busca tema
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/415199
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/365560
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/377588
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/403811
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/386724
+
+53	banco financiamento divida pagar central credito emprestimos economia juros bndes
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/206860
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/174895
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/206832
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/360973
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/189310
+
+54	desenvolvimento programa social acoes objetivo realizar plano iniciativa atividades projetos
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/319648
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/232598
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/218861
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/387491
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/325174
+
+55	previdencia aposentados reforma social aposentadoria direito beneficios seguro salario pagar
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/372772
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/352289
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/351079
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/428694
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/428781
+
+56	economia crescimento crise juros taxa aumento investimentos inflacao realidade bilhoes
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/387918
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/415348
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/384181
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389734
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389673
+
+57	direito negros humanos deficiencia estatuto racial pessoa idosos social sociedade
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/352800
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/462891
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/342827
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/370258
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/357743
+
+58	saude medico atender hospital profissionais servicos populacao medicina tratamento pacientes
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/391334
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/390392
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/387476
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/433729
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/389410
+
+59	comissao assunto reuniao discutir participar debates tema apresentei comissoes plenario
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/420326
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/372477
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/397621
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/340459
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/245392
+
+60	servicos ministerio administrativa contas administracao orgaos cargo funcionarios controle uniao
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/414387
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/453213
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/320904
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/453219
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/316584
+
+61	crime violencia seguranca policia sociedade morte presentes penal pena justica
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/379334
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/349055
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/387226
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/248959
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/368513
+
+62	imposto tributaria estados receita fiscal pagar reforma aumento arrecadacao cargo
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/428622
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/370797
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/366851
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/220264
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/386312
+
+63	cultura livre historia obras musica arte seculo historico homenagem escritor
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/203880
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/222124
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/312758
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/404664
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/421818
+
+64	votar aprovada emenda votacao lider deputados plenario acordo veto entendimento
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/403061
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/377345
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/401071
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/408221
+- https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/403294

@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.vscode
+
+data
+docs
+lib
+__pycache__
+_results
+
+*.pickle
+*.zip
+*.csv
