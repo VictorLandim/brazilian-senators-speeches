@@ -10,3 +10,5 @@ _results
 *.pickle
 *.zip
 *.csv
+.DS_Store
+!senator_speeches.pickle
